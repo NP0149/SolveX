@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 What is SolveX?
+## 🎯 What is SolveX??
 
 SolveX is a **role-based mobile platform** built for three types of users — Students, Startups, and Admins.
 
